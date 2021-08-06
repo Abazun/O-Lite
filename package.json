@@ -1,0 +1,12 @@
+{
+  "name": "O Bot Lite",
+  "version": "1.0.0",
+  "description": "O Bot for all your Minecraft needs!",
+  "main": "lite.js",
+  "author": "Maztm",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "lodash": "^4.17.21",
+    "minecraft-server-util": "^3.5.2"
+  }
+}
